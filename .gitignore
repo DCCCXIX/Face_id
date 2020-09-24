@@ -1,0 +1,5 @@
+﻿__pycache__
+images
+facedict.json
+mod_resnet.pth
+training_data.npy
